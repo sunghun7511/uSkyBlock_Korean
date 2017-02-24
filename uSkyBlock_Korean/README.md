@@ -1,7 +1,8 @@
-From
-https://github.com/rlf/uSkyBlock
+#From https://github.com/rlf/uSkyBlock
 
+##한글 스카이블럭 GUI 플러그인.
 
+<pre>
 GNU GPL v3 의거 배포함.
 
 
@@ -22,5 +23,7 @@ GNU GPL v3 의거 배포함.
 uSkyBlock_Korean 3차 수정자 SHGroup
 (1차 수정 Default_, 2차 수정 샨곰)
 
-참고로 이거 수정할때도 이 라이센스를 그대로 적용해야합니다.(GNU GPL v3)
-소스 배포 안하시면 여러분들도 라이센스 어기는게 됩니다.
+</pre>
+
+#참고로 이거 수정할때도, 사용하실때도 이 라이센스를 그대로 적용해야합니다.(GNU GPL v3)
+#소스 배포 안하시면 여러분들도 라이센스 어기는게 됩니다.
